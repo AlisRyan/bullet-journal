@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/x6ckGcN8)
-# 3500 PA05 Project Repo
+# Bullet Journal Project Repo
 
 <img width="1199" alt="GUI" src="https://github.com/CS-3500-OOD/pa05-ananya-stephanie-allison/assets/114843431/51dbec85-470f-47df-86ad-9a61b68774db">
 <img width="1200" alt="Screen Shot 2023-06-21 at 2 26 07 PM" src="https://github.com/CS-3500-OOD/pa05-ananya-stephanie-allison/assets/114843431/d92d20b3-edde-4bfb-b9dc-daa3c8ee7f7b">
